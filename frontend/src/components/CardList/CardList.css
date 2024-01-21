@@ -1,0 +1,11 @@
+.note{
+    word-wrap: break-word;
+    overflow: scroll;
+}
+
+
+
+.container{    
+  margin: 80px;
+
+}

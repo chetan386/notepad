@@ -1,0 +1,17 @@
+.Card{
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pusIcon{
+    width:30px;
+    height:30px;
+}

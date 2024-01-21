@@ -1,0 +1,8 @@
+.notes{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.notesItem{
+    margin: 40px;
+}
